@@ -6,7 +6,7 @@
 .cards {
   display: flex;
   flex-direction: column;
-  gap: 15px;
+
 }
 
 .cards .red {
@@ -23,7 +23,6 @@
 
 .cards .card {
   align-items: center;
-  height: 100px;
   width: 550px;
   border-radius: 10px;
   color: white;
