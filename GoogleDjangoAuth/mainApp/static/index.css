@@ -1,4 +1,3 @@
-
 .container-fluid {
     background-color: #fff;
     display: flex;
@@ -14,7 +13,7 @@
 
 .card{
     width: 100%;
-    background-color: #282c34;
+    background-color: #fff;
 }
 
 .social-container {
